@@ -63,5 +63,13 @@ Open those on an excel file, and change them from texto to column, separating th
 
 ![image](https://github.com/user-attachments/assets/895b54f4-9042-41d7-9a1a-9fa47a866ee5)
 
+# Data analysis
+
+If there are lines that lost packets, delete them, as RSSI will have an empty field. At the bottom, let's start the statistic analysis of the data.
+
+![image](https://github.com/user-attachments/assets/fe65613c-b363-4c0b-8341-6d229202d5de)
+
+## Histogram
+
 
 
