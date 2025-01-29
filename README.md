@@ -67,9 +67,19 @@ Open those on an excel file, and change them from texto to column, separating th
 
 If there are lines that lost packets, delete them, as RSSI will have an empty field. At the bottom, let's start the statistic analysis of the data.
 
-![image](https://github.com/user-attachments/assets/fe65613c-b363-4c0b-8341-6d229202d5de)
-
 ## Histogram
 
+| RSSI MAXIMA  | RSSI MINIMA | RSSI MEDIA | DESV_PAD_RSSI |
+| ------------- | ------------- |------------- | ------------- |
+| -36  | -55  | -39.91  | 3.12 |
 
+![image](https://github.com/user-attachments/assets/4698dea9-e28f-483f-a779-7e21869c16b4)
+
+## Cumulative probability graph
+
+We need to prepare the data for the graph.
+
+![image](https://github.com/user-attachments/assets/16b7bf80-a058-4cbc-8ef4-efbd48f18f05)
+
+![image](https://github.com/user-attachments/assets/c926562a-4956-44fe-b0b2-5181ef97a3f0)
 
